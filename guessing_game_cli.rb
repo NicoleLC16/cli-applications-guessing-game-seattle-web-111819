@@ -11,7 +11,7 @@ def run_guessing_game
     puts "You guessed the correct number!"
     
   else
-    "Sorry! "
+    "Sorry! The compute guessed #{computer_number}."
     
   end
 end
